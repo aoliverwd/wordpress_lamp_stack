@@ -1,0 +1,4 @@
+.DS*
+.vagrant
+src/*
+!src/index.html
